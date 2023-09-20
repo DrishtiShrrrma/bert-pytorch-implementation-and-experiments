@@ -8,4 +8,4 @@
 1. https://www.youtube.com/watch?v=1ZbLA7ofasY
 2. https://www.youtube.com/watch?v=HqytB2GUbHA
 3. https://www.youtube.com/watch?v=bQt0CLXXAqg
-4. 
+4. https://jaketae.github.io/study/gpt/
